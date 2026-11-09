@@ -1,0 +1,20 @@
+{
+  "name": "r-r-real-estates",
+  "version": "1.0.0",
+  "description": "R&R Real Estates - Your Dream… Our Priority…",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve .",
+    "build": "echo 'No build step required for static site'",
+    "lint": "echo 'No linting configured'"
+  },
+  "keywords": ["real-estate", "property", "somanur"],
+  "author": "R&R Real Estates",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.14"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
